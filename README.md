@@ -2,7 +2,7 @@
 
 > **Interactive Front-End Web Game:** Built as part of *The Complete JavaScript Course* by Jonas Schmedtmann on Udemy to master core JavaScript concepts and DOM manipulation.
 
-[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-CLICK_HERE-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://henriquenagy.github.io/Guess-Game-JavaScriptCourse2024/)
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-CLICK_HERE-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://henriquenagy.github.io/guess-game/)
 
 ---
 
